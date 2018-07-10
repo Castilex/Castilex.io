@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Castilex
+theme: Casticex Test Page
+discription: Test Page 1.0
 
 You can use the [editor on GitHub](https://github.com/Castilex/Castilex.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
